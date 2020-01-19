@@ -16,4 +16,4 @@
 
 # 我的工具
 
-1. [长投小工具](https://coding.net/u/chinanoahli/p/investment_tools/git)
+1. [长投小工具](https://github.com/chinanoahli/investment_tools)
