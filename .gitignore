@@ -2,6 +2,13 @@
 *.pdf
 *.PDF
 
+# Temp files
+*.temp
+*.tmp
+
+# Test dirs
+*test
+
 # OSX.gitignore
 .DS_Store
 .AppleDouble
