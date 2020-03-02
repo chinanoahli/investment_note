@@ -507,7 +507,7 @@ n 为投资年限
 
 ## 可转债
 
-可转债属性请看[可转债投资课(旧版)笔记](./ichangtou/bond/convertible_bond/README_before_mid2019)
+可转债属性请看[可转债投资课(旧版)笔记](/ichangtou/bond/convertible_bond/README_before_mid2019.md)
 
 ## 可转债基金筛选指标
 
