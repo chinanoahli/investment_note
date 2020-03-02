@@ -12,7 +12,7 @@
 
 5. 股票高级 -- 未报班
 
-6. [可转债](./ichangtou/bond/convertible_bond/convertible_bond.md)
+6. [可转债](./ichangtou/bond/convertible_bond/README_before_mid2019.md)
 
 # 我的工具
 
