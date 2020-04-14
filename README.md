@@ -14,6 +14,8 @@
 
 6. [可转债](/ichangtou/bond/convertible_bond/README_before_mid2019.md)
 
+7. [港股打新](/ichangtou/stock/hk_stock_newlucky)
+
 #### 其他
 
 + [股票拾遗](/ichangtou/stock/others)
